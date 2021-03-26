@@ -5,7 +5,7 @@
 
 [[main]]
   name = 'Home'
-  url = "home/demo"
+  url = "/"
   weight = 1
 
 [[main]]
