@@ -3,7 +3,7 @@ widget: blank
 active: true
 author: admin
 widget_id: RECENT-POSTS
-headless: true
+headless: false
 weight: 10
 title: Dear Ed Research
 design:
