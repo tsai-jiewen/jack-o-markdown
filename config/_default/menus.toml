@@ -5,7 +5,7 @@
 
 [[main]]
   name = 'home'
-  url = "content/home/blank.md#"
+  url = "content/home/#blank"
   weight = 1
 
 [[main]]
