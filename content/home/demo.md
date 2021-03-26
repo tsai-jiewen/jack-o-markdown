@@ -6,7 +6,7 @@ widget: blank
 widget_id: demo
 headless: true
 weight: 15
-title: Ed ResearchR
+title: Ed and Anna
 subtitle: ""
 active: true
 design:
@@ -16,12 +16,12 @@ design:
   spacing:
     padding:
       - 20px
-      - 40px
+      - 0px
       - 20px
-      - 40px
+      - 0px
 ---
 
-## 👋 Welcome to the blog for Educational Research and R Data Analysis
+## 👋 Welcome to the blog for 'Ed'ucational Research 'and' R Data 'Ana'lysis
 
 The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
 
