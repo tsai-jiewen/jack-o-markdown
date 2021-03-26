@@ -4,6 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
+  name = 'home'
+  url = "content/home/blank.md#"
+  weight = 1
 
 [[main]]
   name = "Posts"
