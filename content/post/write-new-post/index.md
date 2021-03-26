@@ -3,14 +3,14 @@ title: write new post
 subtitle: "#001"
 date: 2021-03-26T12:36:37.901Z
 draft: false
-featured: true
+featured: false
 authors:
-  - JiewenTsai
+  - admin
 tags:
   - R
 image:
   filename: featured
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
 ---
 
