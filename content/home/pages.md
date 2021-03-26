@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Posts
-subtitle:
+title: Ed and Anna
+subtitle: Welcome to 'Ed and Anna', it's a blog for educational research and R data analysis. 
 
 content:
   # Page type to display. E.g. post, talk, publication...
