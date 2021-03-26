@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: Ed and Anna
-subtitle: Welcome to 'Ed and Anna', it's a blog for educational research and R data analysis. 
+subtitle: 👋 Welcome to 'Ed and Anna'! It's a blog for educational research and R data analysis. 
 
 content:
   # Page type to display. E.g. post, talk, publication...
