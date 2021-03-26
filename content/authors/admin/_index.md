@@ -7,6 +7,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/tsai-jiewen
+  - display:
+      header: false
+    icon_pack: far
+    icon: sticky-note
+    link: https://hackmd.io/@nccudoc
 organizations:
   - name: National ChengChi University
 education:
