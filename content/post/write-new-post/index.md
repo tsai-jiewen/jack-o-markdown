@@ -3,7 +3,7 @@ title: write new post
 subtitle: "#001"
 date: 2021-03-26T12:36:37.901Z
 draft: false
-featured: false
+featured: true
 authors:
   - JiewenTsai
 tags:
