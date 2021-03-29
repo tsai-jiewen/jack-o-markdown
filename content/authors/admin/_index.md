@@ -4,7 +4,10 @@ role: PhD student in Education
 avatar_filename: avatar.png
 bio: try somthing
 interests:
-  - R data analysis
+  - R data science
+  - Longitudinal data analysis
+  - Psychometrics
+  - Bayesian causal inference (?)
 social:
   - icon: github
     icon_pack: fab
