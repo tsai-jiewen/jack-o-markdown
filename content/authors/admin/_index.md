@@ -20,7 +20,13 @@ social:
 organizations:
   - name: National ChengChi University
 education:
-  courses: []
+  courses:
+    - course: BA in Education (Secondary)
+      institution: National ChengChi University
+      year: 2017
+    - course: BA in Educational Administration
+      institution: National ChengChi University
+      year: 2020
 email: tsai.jwen@gmail.com
 superuser: true
 ---
