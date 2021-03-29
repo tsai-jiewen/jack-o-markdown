@@ -18,14 +18,14 @@ social:
     icon_pack: fab
     link: https://www.kaggle.com/tsaijwen
 organizations:
-  - name: National ChengChi University
+  - name: National ChengChi University, Taipei, Taiwan
 education:
   courses:
     - course: BA in Education with Teacher Counselor Certificate (Secondary)
-      institution: National ChengChi University
+      institution: National ChengChi University, Taipei, Taiwan
       year: 2017
     - course: MA in Educational Administration
-      institution: National ChengChi University
+      institution: National ChengChi University, Taipei, Taiwan
       year: 2020
 email: tsai.jwen@gmail.com
 superuser: true
