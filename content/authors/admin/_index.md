@@ -3,6 +3,8 @@ title: Jiewen Tsai
 role: PhD student in Education
 avatar_filename: avatar.png
 bio: try somthing
+interests:
+  - R data analysis
 social:
   - icon: github
     icon_pack: fab
