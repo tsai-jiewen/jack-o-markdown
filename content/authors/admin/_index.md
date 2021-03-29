@@ -1,6 +1,6 @@
 ---
 title: Jiewen Tsai
-role: PhD student in Education
+role: PhD student in Education (Educational Psychology and Counseling)
 avatar_filename: avatar.png
 bio: try somthing
 interests:
