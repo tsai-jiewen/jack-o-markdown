@@ -1,6 +1,6 @@
 ---
 title: Jiewen Tsai
-role: PhD student of Education
+role: PhD student in Education
 avatar_filename: avatar.png
 bio: try somthing
 social:
@@ -21,10 +21,10 @@ organizations:
   - name: National ChengChi University
 education:
   courses:
-    - course: BA in Education (Secondary)
+    - course: BA in Education with Teacher Counselor Certificate (Secondary)
       institution: National ChengChi University
       year: 2017
-    - course: BA in Educational Administration
+    - course: MA in Educational Administration
       institution: National ChengChi University
       year: 2020
 email: tsai.jwen@gmail.com
