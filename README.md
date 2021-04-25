@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e4784cf6-7c51-434c-b45f-0363ceba62e5/deploy-status)](https://app.netlify.com/sites/databanana/deploys)
+
 <!--<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>-->
 
 # Blog Template for [Wowchemy Website Builder](https://wowchemy.com)
