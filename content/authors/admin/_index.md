@@ -1,6 +1,6 @@
 ---
 title: Jiewen Tsai
-role: PhD student in Education (Educational Psychology and Counseling)
+role: PhD student in Education
 avatar_filename: avatar.png
 bio: try somthing
 interests:
@@ -23,7 +23,7 @@ social:
     icon_pack: fab
     link: https://www.kaggle.com/tsaijwen
 organizations:
-  - name: National ChengChi University, Taipei, Taiwan
+  - name: National ChengChi University, Taiwan
 education:
   courses:
     - course: BA in Education with Teacher Counselor Certificate (Secondary)
