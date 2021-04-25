@@ -26,12 +26,12 @@ organizations:
   - name: National ChengChi University, Taiwan
 education:
   courses:
-    - course: BA in Education with Teacher Counselor Certificate (Secondary)
-      institution: National ChengChi University, Taipei, Taiwan
-      year: 2017
     - course: MA in Educational Administration
       institution: National ChengChi University, Taipei, Taiwan
       year: 2020
+    - course: BA in Education with Teacher Counselor Certificate (Secondary)
+      institution: National ChengChi University, Taipei, Taiwan
+      year: 2017
 email: tsai.jwen@gmail.com
 superuser: true
 ---
