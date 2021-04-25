@@ -1,11 +1,12 @@
 ---
-summary: Learn how to blog in Academic using Jupyter notebooks
-authors:
-  - Wowchemy
-lastMod: 2019-09-05T00:00:00Z
 title: "[Wowchemy] Display Jupyter Notebooks with Academic"
 subtitle: Learn how to blog in Academic using Jupyter notebooks
 date: 2019-02-05T00:00:00Z
+summary: Learn how to blog in Academic using Jupyter notebooks
+draft: true
+authors:
+  - Wowchemy
+lastMod: 2019-09-05T00:00:00Z
 tags:
   - Wowchemy
 categories: []
