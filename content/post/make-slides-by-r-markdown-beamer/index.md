@@ -16,7 +16,7 @@ image:
 
 - You just follow the basic R presentation way. do not need any another pkg, but `tinytex`.
 
-![Make%20Slides%20by%20R%20Markdown%20Beamer%2051de6620fa7b497b99a55a1ca1742cc6/Untitled.png](Make%20Slides%20by%20R%20Markdown%20Beamer%2051de6620fa7b497b99a55a1ca1742cc6/Untitled.png)
+![](https://i.imgur.com/1i4Vcrf.png)
 
 ## 2 YAML settings (the most imp. part)
 
@@ -52,9 +52,9 @@ fontsize: 12pt
 - `\alert{}` can turn a string's color to red. (Note: black or \textbf{} can not be available in Chinese words)
 - Level 3 heading: (### Some enumeration) will be a block. see below:
 
-![Make%20Slides%20by%20R%20Markdown%20Beamer%2051de6620fa7b497b99a55a1ca1742cc6/Untitled%201.png](Make%20Slides%20by%20R%20Markdown%20Beamer%2051de6620fa7b497b99a55a1ca1742cc6/Untitled%201.png)
+![](https://i.imgur.com/5DaAlVp.png)
 
 - Level 2 heading is a new slide title (in beamer, you do not need dash `---` to separate slide. but if you have a too-long paragraph, you can still use `—-`).
 - Level 1 heading is a lone, center slide, see below:
 
-![Make%20Slides%20by%20R%20Markdown%20Beamer%2051de6620fa7b497b99a55a1ca1742cc6/Untitled%202.png](Make%20Slides%20by%20R%20Markdown%20Beamer%2051de6620fa7b497b99a55a1ca1742cc6/Untitled%202.png)
+![](https://i.imgur.com/kFY1VXR.png)
