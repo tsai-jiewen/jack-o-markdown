@@ -49,8 +49,8 @@ fontsize: 12pt
 
 ## 3 Another tips
 
-- `\alert{}` can turn a string's color to red. (Note: black or \textbf{} can not be available in Chinese words)
-- Level 3 heading: (### Some enumeration) will be a block. see below:
+- `\alert{}` can turn a string's color to red. (Note: `black` or `\textbf{}` can not be available in Chinese words)
+- Level 3 heading: (`###`) will be a block. see below:
 
 ![](https://i.imgur.com/5DaAlVp.png)
 
