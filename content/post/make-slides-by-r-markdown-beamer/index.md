@@ -16,7 +16,7 @@ image:
 
 - You just follow the basic R presentation way. do not need any another pkg, but `tinytex`.
 
-![](https://i.imgur.com/1i4Vcrf.png)
+![](https://i.imgur.com/kFY1VXR.png)
 
 ## 2 YAML settings (the most imp. part)
 
@@ -57,4 +57,4 @@ fontsize: 12pt
 - Level 2 heading is a new slide title (in beamer, you do not need dash `---` to separate slide. but if you have a too-long paragraph, you can still use `—-`).
 - Level 1 heading is a lone, center slide, see below:
 
-![](https://i.imgur.com/kFY1VXR.png)
+![](https://i.imgur.com/1i4Vcrf.png)
