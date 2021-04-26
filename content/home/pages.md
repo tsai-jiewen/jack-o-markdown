@@ -4,7 +4,7 @@ widget_id: RECENT-POSTS
 headless: true
 weight: 60
 title: Jack ^o^ Markdown 🎃
-subtitle: 👋 Welcome to 'Data Banana 🍌' ! It's a blog for educational research
+subtitle: 👋 Welcome to 'Jack ^o^ Markdown 🎃' ! It's a blog for educational research
   and R data analysis.
 content:
   page_type: post
