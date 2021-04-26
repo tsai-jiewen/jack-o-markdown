@@ -54,3 +54,25 @@ fontsize: 12pt
 - Level 1 heading is a lone, center slide, see below:
 
 ![](https://i.imgur.com/1i4Vcrf.png)
+
+## 4 p.s. Other workable method.
+
+```yaml
+---
+title: A minimal example
+subtitle: With a subtitle
+author: Matthias Vogelgesang
+institute: Centre for Modern Beamer Themes
+date: \today
+header-includes:
+  - \usepackage{ctex}
+  - \usepackage{xeCJK}
+  - \setCJKmainfont{DFKai-SB}
+mainfont: Calibri
+theme: Madrid
+output: 
+  beamer_presentation:
+    latex_engine: xelatex
+fontsize: 12pt
+---
+```
