@@ -27,12 +27,8 @@ subtitle: With a subtitle
 author: Matthias Vogelgesang
 institute: Centre for Modern Beamer Themes
 date: \today
-header-includes:
-  - \usepackage{ctex}
-  - \usepackage{xeCJK}
-  - \setCJKmainfont{DFKai-SB}
-mainfont: Calibri
 theme: Madrid
+CJKmainfont: DFKai-SB #標楷體
 output: 
   beamer_presentation:
     latex_engine: xelatex
