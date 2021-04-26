@@ -3,7 +3,7 @@ widget: pages
 widget_id: RECENT-POSTS
 headless: true
 weight: 60
-title: Data Banana 🍌
+title: Jack-o'-Markdown 🎃
 subtitle: 👋 Welcome to 'Data Banana 🍌' ! It's a blog for educational research
   and R data analysis.
 content:
