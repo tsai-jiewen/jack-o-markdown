@@ -13,8 +13,8 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-
 ---
+
 ```{r message=FALSE}
 library(CTT)
 library(psychometric)
@@ -51,15 +51,16 @@ res
 psychometric::item.exam(res_mat, discrim = T) %>%
   mutate(item = key$quiz_no, .before = 1)
 ```
-#Score transformation
+## Score transformation
 ```{r}
 # t score
 t_scr <- score.transform(scr$score, mu.new = 50, sd.new = 10, normalize = T)
 t_scr
 ```
 
-#cttICC(score = scr$score, itemVector = scr$scored[,26], colTheme="spartans", cex=1.5)
+
 ```{r}
+# cttICC(score = scr$score, itemVector = scr$scored[,26], colTheme="spartans", cex=1.5)
 CTT::reliability(as.matrix(scr$scored))
 ```
 
